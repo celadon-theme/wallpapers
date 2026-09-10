@@ -1,0 +1,162 @@
+{
+  "created": "2026-09-10",
+  "method": "OpenAI built-in image_gen",
+  "paletteRepository": "https://github.com/celadon-theme/celadon-theme",
+  "paletteRevision": "8a5090c3714c2ee4d8081cec3e332168adb1df8c",
+  "colorPolicy": "Published palette values used as image-generation targets; shading and textures contain additional colors, not exact palette quantization.",
+  "desktopExport": "Lanczos3 resample with negligible centered aspect-ratio crop; upscaled, not native 4K; no creative repainting or color changes.",
+  "images": [
+    {
+      "slug": "01-glaze-tide",
+      "title": "Glaze Tide",
+      "variant": "celadon",
+      "category": "Photographic / ceramic",
+      "original": "originals/01-glaze-tide-celadon.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/01-glaze-tide-celadon-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/01-glaze-tide-celadon.jpg",
+      "upscaled": true,
+      "prompt": "Use case: photorealistic-natural. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: An extremely close abstract macro view of three broad overlapping ceramic glaze ridges, sweeping from the lower right toward the middle left like a slow tide. Satin ceramic surface, very restrained fine natural glaze crazing only on the closest ridge, rounded tactile edges, soft grazing light, deep empty upper half. Sculptural abstract material photography, not a vase, not literal ocean, not a logo. Broad forms rather than many thin ribbons. Palette targets: Near-black forest #131b11 occupies most of the image; shadow #182216 and ridge #232f20; subdued sage highlights #727e70 and #939f91, with a tiny gently lit green #9ecf75 edge. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No oversaturation, no generic bright turquoise, no excessive tiny details, no heavy grain or banding."
+    },
+    {
+      "slug": "02-mist-country",
+      "title": "Mist Country",
+      "variant": "celadon-sky",
+      "category": "Photographic / landscape",
+      "original": "originals/02-mist-country-celadon-sky.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/02-mist-country-celadon-sky-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/02-mist-country-celadon-sky.jpg",
+      "upscaled": true,
+      "prompt": "Use case: photorealistic-natural. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon-sky variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A cinematic minimalist landscape photograph of rolling hills and distant cedar forests dissolving into very pale sage morning mist. Only the lower 45 percent has detailed landscape; the upper 55 percent is spacious pale mist with almost no features. Distant ridgelines at different depths and a softly meandering river reflected as a hairline of light, tiny trees for believable scale. Calm natural photographic detail without HDR or dramatic peaks. Palette targets: Light sage-paper #eaf6e8 dominates sky and haze; #deedda and #cee1ca form distant hills, nearer desaturated green #40783b softened by haze, deepest subtle #5d675b. Entire image stays light and airy. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No oversaturation, no generic bright turquoise, no excessive tiny details, no heavy grain or banding."
+    },
+    {
+      "slug": "03-paper-garden",
+      "title": "Paper Garden",
+      "variant": "celadon-sky",
+      "category": "Geometric / paper cut",
+      "original": "originals/03-paper-garden-celadon-sky.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/03-paper-garden-celadon-sky-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/03-paper-garden-celadon-sky.jpg",
+      "upscaled": true,
+      "prompt": "Use case: stylized-concept. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon-sky variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A refined tactile paper-cut abstract botanical still life viewed from directly above: a restrained asymmetrical arrangement of three oversized ginkgo fan silhouettes and two curved paper arcs, clustered entirely in the lower-right third. Bare sage paper across the left two thirds. Sculptural cut paper with very soft small shadows and visible delicate paper fibers, muted modern editorial design, grown-up, minimal, original. No recognizable brand logo. Palette targets: Dominant solid very pale sage-paper #eaf6e8 backdrop, layers #deedda #cee1ca, a muted green #40783b leaf, and one very small subdued ochre #9c7220 paper circle, no bright yellow or white. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No excessive tiny details, heavy grain or banding."
+    },
+    {
+      "slug": "04-fern-study",
+      "title": "Fern Study",
+      "variant": "celadon-powder",
+      "category": "Photographic / botanical",
+      "original": "originals/04-fern-study-celadon-powder.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/04-fern-study-celadon-powder-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/04-fern-study-celadon-powder.jpg",
+      "upscaled": true,
+      "prompt": "Use case: photorealistic-natural. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon-powder variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A meditative fine-art botanical photograph: one elegant fern frond curving inward from the right edge over a deep matte sage background, a second barely visible out-of-focus frond in the bottom right. The fern is natural with anatomically plausible repeating leaflets and softly diffused light. The left 65 percent is dark quiet negative space. Tactile botanical study, subtle film grain, not studio advertising, no dew sparkles. Palette targets: Dominant muted dark sage #232b21 background, shadows #273125 and #303c2d, fern leaf tones near #707c6e and restrained #8fbf65, very limited pale #b5c1b2 highlights. Low contrast intended for dim rooms. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No excessive tiny details, heavy grain or banding."
+    },
+    {
+      "slug": "05-pigment-bloom",
+      "title": "Pigment Bloom",
+      "variant": "celadon-powder",
+      "category": "Color splash / soft",
+      "original": "originals/05-pigment-bloom-celadon-powder.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/05-pigment-bloom-celadon-powder-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/05-pigment-bloom-celadon-powder.jpg",
+      "upscaled": true,
+      "prompt": "Use case: photorealistic-natural. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon-powder variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A premium abstract color-splash wallpaper: two clouds of liquid pigment bloom underwater from the lower-right quadrant, with flowing translucent tendrils of dusty coral and muted cyan interleaving with sage green, and a very small warm golden wisp. Believable high-speed macro photographic fluid dynamics, silky billowing edges, sculptural volume, no explosions of speckles. Left half and upper third remain empty dark sage. Rich artful color but soft luminous low-contrast handling suitable for a dim room. Palette targets: Backdrop stays sage-charcoal #232b21 with #273125. Pigment colors are Celadon Powder accents #ea928c coral, #14c8b9 cyan, #8fbf65 green, small #ccab3e ochre, subdued translucent highlights #b5c1b2. Avoid bright white and electric neon; preserve recognizable distinct pigment hues. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No excessive tiny details, heavy grain or banding."
+    },
+    {
+      "slug": "06-chromatic-current",
+      "title": "Chromatic Current",
+      "variant": "celadon",
+      "category": "Color splash / vivid",
+      "original": "originals/06-chromatic-current-celadon.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/06-chromatic-current-celadon-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/06-chromatic-current-celadon.jpg",
+      "upscaled": true,
+      "prompt": "Use case: photorealistic-natural. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A vivid but carefully composed color-splash desktop wallpaper: one broad elegantly twisting ribbon of liquid paint sweeps diagonally from bottom middle into the right third, becoming billowing soft plumes with a few deliberate paint droplets. High-speed studio macro photography of viscous color in motion, realistic reflections and fluid texture, no text. Clear separated bands of coral, cyan, sky blue, lavender-magenta and a small gold accent, mingling only at the edges. Leave the left 55 percent and top quarter nearly empty dark forest. Sophisticated and energetic, not a rainbow stripe pattern, not smoky fire, not crowded powder explosion. Palette targets: Dominant forest field #131b11 and #182216 covers 65 percent. Saturated accents only in the focal ribbon: coral #fba29b, cyan #37d8c9, sky blue #7cc7fb, magenta #f49cdb, sage-lime #9ecf75 and a small golden-yellow #dcbb50. Distinct clean accent hues, no white highlights clipping. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No excessive tiny details, heavy grain or banding."
+    },
+    {
+      "slug": "07-jade-orbit",
+      "title": "Jade Orbit",
+      "variant": "celadon-jade",
+      "category": "Geometric / sculptural",
+      "original": "originals/07-jade-orbit-celadon-jade.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/07-jade-orbit-celadon-jade-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/07-jade-orbit-celadon-jade.jpg",
+      "upscaled": true,
+      "prompt": "Use case: stylized-concept. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon-jade variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A premium geometric 3D desktop wallpaper: a large satin dark-jade sphere partially nested inside a thick incomplete circular ring, with a single slender rectangular bar passing behind them, arranged as a precise balanced architectural sculpture in the right third. The ring is tilted in perspective, softly lit at its inner lip; sphere and ring are made of matte glazed ceramic. A small muted gold disk provides a single contrast accent. Vast empty nearly black left and upper fields. Geometry is mathematically clean and physically coherent, elegant abstract composition, dramatic but restrained directional studio lighting. No planets, no stars, no cosmic effects, no logo. Palette targets: Almost-black green #060d05 fills 75 percent, sculpture body #0b150a and #182315, desaturated sage #9ba799 edges and ring inner surface #acde83, a very small ochre-gold #ebca60 disk, tiny restrained cyan #4ce7d8 glint. No blown-out white. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No excessive tiny details, heavy grain or banding."
+    },
+    {
+      "slug": "08-sage-assembly",
+      "title": "Sage Assembly",
+      "variant": "celadon-jade",
+      "category": "Geometric / graphic",
+      "original": "originals/08-sage-assembly-celadon-jade.png",
+      "originalSize": [
+        1672,
+        941
+      ],
+      "desktop": "desktop-4k/08-sage-assembly-celadon-jade-3840x2160.jpg",
+      "desktopSize": [
+        3840,
+        2160
+      ],
+      "preview": "previews/08-sage-assembly-celadon-jade.jpg",
+      "upscaled": true,
+      "prompt": "Use case: stylized-concept. Asset: premium desktop wallpaper for the Celadon open-source color theme, celadon-jade variant. Generate ONE full-bleed landscape image at 3840x2160 pixels, 16:9 composition. Subject and composition: A sophisticated flat geometric desktop wallpaper inspired by modernist print design: a compact asymmetric arrangement of precisely cut quarter-circles, an arch, two rectangles, and one small disk, clustered in the lower-right third on an uninterrupted dark background. Clear hierarchy: one large sage arch, one medium cyan quarter-circle, small coral and gold accents, with substantial open negative-space channels between shapes. Extremely subtle matte paper texture, crisp geometric outlines, almost flat very short soft shadows. Left 60 percent and upper third entirely quiet. Original composition, not a logo, no lettering, no pseudo-3D faceted landscape. Palette targets: Near-black green #060d05 backdrop, dark secondary pieces #182315, main sage shape a subdued version of #acde83, one cyan #4ce7d8 element, very small coral #ffb7b0 and yellow #ebca60 accents. Accent cluster is less than 25 percent of image area. No bright white. These are art-direction palette anchors: keep visual harmony with these particular sage-green terminal colors. Finish: exceptionally composed, beautiful, restrained, suitable to live behind code windows for hours. Fine natural detail only at focal forms; broad quiet areas remain clean. Opaque image, no transparency. Absolutely no text, labels, letters, logo, watermark, border, device, room mockup, collage, or multiple panels. No excessive tiny details, heavy grain or banding."
+    }
+  ]
+}
