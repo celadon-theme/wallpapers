@@ -7,11 +7,11 @@ The published set of Celadon wallpaper files, their layout, naming, integrity re
 ## Requirements
 
 ### Requirement: Collection layout
-The repository SHALL contain eight wallpapers, two per theme variant (`celadon-sky`, `celadon-powder`, `celadon`, `celadon-jade`), in three renditions: `originals/<NN>-<slug>-<variant>.png` (1672×941, untouched model output), `desktop-4k/<NN>-<slug>-<variant>-3840x2160.jpg` (3840×2160), and `previews/<NN>-<slug>-<variant>.jpg` (thumbnail).
+The repository SHALL contain sixteen wallpapers, four per theme variant (`celadon-sky`, `celadon-powder`, `celadon`, `celadon-jade`), in three renditions: `originals/<NN>-<slug>-<variant>.png` (1672×941, untouched model output), `desktop-4k/<NN>-<slug>-<variant>-3840x2160.jpg` (3840×2160), and `previews/<NN>-<slug>-<variant>.jpg` (thumbnail).
 
 #### Scenario: Every wallpaper has all three renditions
 - **WHEN** `manifest.json` is read
-- **THEN** each of its eight `images` entries names an `original`, `desktop`, and `preview` path, and every named file exists in the repository
+- **THEN** each of its sixteen `images` entries names an `original`, `desktop`, and `preview` path, and every named file exists in the repository
 
 #### Scenario: Desktop renditions are 4K
 - **WHEN** any file in `desktop-4k/` is inspected
