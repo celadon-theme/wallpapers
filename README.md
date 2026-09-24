@@ -1,6 +1,6 @@
 <h1 align="center">Celadon wallpapers</h1>
 
-<p align="center"><em>eight scenes · four variants · calm green</em></p>
+<p align="center"><em>sixteen scenes · four variants · calm green</em></p>
 
 <p align="center">
   <a href="https://celadontheme.com">celadontheme.com</a> ·
@@ -10,11 +10,11 @@
 ---
 
 Desktop wallpapers for the [Celadon](https://github.com/celadon-theme/celadon-theme)
-theme family. Two scenes per variant, palette-guided, generated with OpenAI's
+theme family. Four scenes per variant, palette-guided, generated with OpenAI's
 image model from the prompts in [`PROMPTS.md`](PROMPTS.md). No stock photos or
 external artwork. No logos, text, or watermarks.
 
-<p align="center"><img src="contact-sheet.jpg" alt="Contact sheet of all eight wallpapers" width="880"></p>
+<p align="center"><img src="contact-sheet.jpg" alt="Contact sheet of all sixteen wallpapers" width="880"></p>
 
 ## Before you download
 
@@ -23,6 +23,10 @@ The files in `desktop-4k/` are **3840×2160 upscales** of the untouched
 negligible centre crop (the source ratio is within 0.1% of 16:9) and contain
 no native 4K detail. Native 4K generation was not available when these were
 made. If you'd rather scale yourself, take the original.
+
+Desktop JPEGs use quality 95 with 4:4:4 chroma sampling. Previews are
+720×405 JPEGs at quality 90 with 4:2:0 chroma sampling. The September 24
+additions preserve the original collection’s dimensions and encoding settings.
 
 ## Wallpapers
 
@@ -36,6 +40,14 @@ made. If you'd rather scale yourself, take the original.
 | 6 | Chromatic Current | color splash · vivid | `celadon` | [download](desktop-4k/06-chromatic-current-celadon-3840x2160.jpg) | [png](originals/06-chromatic-current-celadon.png) |
 | 7 | Jade Orbit | geometric · sculptural | `celadon-jade` | [download](desktop-4k/07-jade-orbit-celadon-jade-3840x2160.jpg) | [png](originals/07-jade-orbit-celadon-jade.png) |
 | 8 | Sage Assembly | geometric · graphic | `celadon-jade` | [download](desktop-4k/08-sage-assembly-celadon-jade-3840x2160.jpg) | [png](originals/08-sage-assembly-celadon-jade.png) |
+| 9 | Moss Terrace | photographic · landscape | `celadon` | [download](desktop-4k/09-moss-terrace-celadon-3840x2160.jpg) | [png](originals/09-moss-terrace-celadon.png) |
+| 10 | Folded Kiln | geometric · ceramic | `celadon` | [download](desktop-4k/10-folded-kiln-celadon-3840x2160.jpg) | [png](originals/10-folded-kiln-celadon.png) |
+| 11 | Reedlight | photographic · landscape | `celadon-sky` | [download](desktop-4k/11-reedlight-celadon-sky-3840x2160.jpg) | [png](originals/11-reedlight-celadon-sky.png) |
+| 12 | Porcelain Steps | geometric · ceramic | `celadon-sky` | [download](desktop-4k/12-porcelain-steps-celadon-sky-3840x2160.jpg) | [png](originals/12-porcelain-steps-celadon-sky.png) |
+| 13 | Velvet Leaves | photographic · botanical | `celadon-powder` | [download](desktop-4k/13-velvet-leaves-celadon-powder-3840x2160.jpg) | [png](originals/13-velvet-leaves-celadon-powder.png) |
+| 14 | Silken Drift | abstract · textile | `celadon-powder` | [download](desktop-4k/14-silken-drift-celadon-powder-3840x2160.jpg) | [png](originals/14-silken-drift-celadon-powder.png) |
+| 15 | Night Quarry | photographic · mineral | `celadon-jade` | [download](desktop-4k/15-night-quarry-celadon-jade-3840x2160.jpg) | [png](originals/15-night-quarry-celadon-jade.png) |
+| 16 | Prismatic Veil | abstract · glass | `celadon-jade` | [download](desktop-4k/16-prismatic-veil-celadon-jade-3840x2160.jpg) | [png](originals/16-prismatic-veil-celadon-jade.png) |
 
 "Photographic" describes the look. These are generated images, not photographs
 of real places or objects.
@@ -44,10 +56,10 @@ of real places or objects.
 
 | variant | field | wallpapers |
 |---|---|---|
-| `celadon-sky` | light · sage paper | Mist Country, Paper Garden |
-| `celadon-powder` | dark · low contrast | Fern Study, Pigment Bloom |
-| `celadon` | dark · medium contrast · **the default** | Glaze Tide, Chromatic Current |
-| `celadon-jade` | dark · high contrast | Jade Orbit, Sage Assembly |
+| `celadon-sky` | light · sage paper | Mist Country, Paper Garden, Reedlight, Porcelain Steps |
+| `celadon-powder` | dark · low contrast | Fern Study, Pigment Bloom, Velvet Leaves, Silken Drift |
+| `celadon` | dark · medium contrast · **the default** | Glaze Tide, Chromatic Current, Moss Terrace, Folded Kiln |
+| `celadon-jade` | dark · high contrast | Jade Orbit, Sage Assembly, Night Quarry, Prismatic Veil |
 
 ## Palette
 
